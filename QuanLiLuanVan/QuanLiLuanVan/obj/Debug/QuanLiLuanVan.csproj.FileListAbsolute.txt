@@ -1,0 +1,11 @@
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\bin\Debug\QuanLiLuanVan.exe.config
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\bin\Debug\QuanLiLuanVan.exe
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\bin\Debug\QuanLiLuanVan.pdb
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.csproj.AssemblyReference.cache
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.Form1.resources
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.Form2.resources
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.Properties.Resources.resources
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.csproj.GenerateResource.cache
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.csproj.CoreCompileInputs.cache
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.exe
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.pdb
