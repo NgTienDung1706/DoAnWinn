@@ -9,3 +9,6 @@ D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.csproj.GenerateRe
 D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.csproj.CoreCompileInputs.cache
 D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.exe
 D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.pdb
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\bin\Debug\Guna.UI2.dll
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.FormLogin.resources
+D:\DoAnWin\QuanLiLuanVan\QuanLiLuanVan\obj\Debug\QuanLiLuanVan.csproj.CopyComplete
