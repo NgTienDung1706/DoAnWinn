@@ -1,0 +1,12 @@
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\bin\Debug\QLILUANVAN.exe.config
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\bin\Debug\QLILUANVAN.exe
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\bin\Debug\QLILUANVAN.pdb
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\bin\Debug\Guna.UI2.dll
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.csproj.AssemblyReference.cache
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.Form1.resources
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.Properties.Resources.resources
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.csproj.GenerateResource.cache
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.csproj.CoreCompileInputs.cache
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.csproj.CopyComplete
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.exe
+D:\DoAnWin\DoAnWinn\QLILUANVAN\QLILUANVAN\obj\Debug\QLILUANVAN.pdb
